@@ -1,0 +1,22 @@
+.text-center {
+	text-align: center;
+}
+
+.green {
+	color: green;
+}
+
+.red {
+	color: red;
+}
+
+.normal {
+	color: black;
+}
+
+.left{
+border-left: solid 2px black;
+flex-direction: column;
+display: flex;
+background-color: blanchedalmond;
+}
